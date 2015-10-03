@@ -1,0 +1,26 @@
+body {
+	background-color: gray;
+}
+.link {
+	padding: 10px 400px;
+	color: white;
+}
+
+.cover {
+	text-align: center;
+	background-image: url("http://www.tiny-ninja.com/layout/ninja.png");
+	width: 1000px;
+	height: 700px;
+	background-position: 200px 150px;
+	background-repeat: no-repeat;
+	color: Red;
+}
+
+.original_name {
+	font-family: "Comic Sans MS";
+	color: black;
+}
+.new_name {
+	font-family: "Comic Sans MS";
+	color: #4B0082;
+}
