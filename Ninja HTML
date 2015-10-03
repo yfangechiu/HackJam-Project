@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>What's your ninja name?</title>
+	<link rel="stylesheet" href="style.css.project">
+</head>
+<body link = "white">
+	<!-- <img src="http://vignette4.wikia.nocookie.net/clubpenguin/images/d/d8/Ninja_Old_Header.png/revision/latest?cb=20140616202121" height="10%" width="10%"> -->
+	<div class="cover">
+		<h5 class="original_name">Your Name:</h1>
+		<h2 class="new_name">Ninja Name:</h1>
+		<!-- <img src="http://www.another71.com/wp-content/uploads/2015/04/ninja-group1.png"> -->
+	</div>
+	<div class="link">
+		<a href="http://pinterest.com">
+		Find out what your wolf name is!</a>
+	</div>
+</body>
+</html>
